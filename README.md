@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kyouulee/Kyouulee/main/banner.gif" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Kyouu</h1>
 
 <p align="center">
@@ -38,33 +34,16 @@ Frontend-focused developer, currently studying and building projects.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyouulee&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyouulee&layout=compact&theme=dark" />
-</p>
-
----
-
 ## 📌 Featured Project
 
 - 🔹 **Personal Portfolio**  
   https://github.com/Kyouule/Portif-lio  
   Frontend personal portfolio project (Vercel deployment coming soon)
 
----
-
 ## 🎯 Goal
 
 Continue learning, building real-world projects, and growing as a frontend developer.
 
----
 
 ## 🤝 Let's Connect
 
