@@ -6,8 +6,8 @@ Frontend-focused developer, currently studying and building projects.
 
 <p align="center">
   <a href="https://github.com/Kyouulee">GitHub</a> •
-  <a href="#">Portfolio (coming soon)</a> •
-  <a href="mailto:youremail@email.com">Email</a>
+  <a href="#">Portfolio</a> •
+  <a href="mailto:marcusviniciusfabricio1@gmail.com">Email</a>
 </p>
 
 ---
@@ -28,10 +28,8 @@ Frontend-focused developer, currently studying and building projects.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/java.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
 ## 📌 Featured Project
