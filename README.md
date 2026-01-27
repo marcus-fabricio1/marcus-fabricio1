@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kyouu</h1>
+<h1 align="center">Hi 👋, I'm Marcus</h1>
 
 <p align="center">
 Frontend-focused developer, currently studying and building projects.
