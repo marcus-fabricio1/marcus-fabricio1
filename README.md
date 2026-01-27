@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kyouulee/Kyouulee/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/Kyouulee/Kyouulee/main/banner.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kyouu</h1>
